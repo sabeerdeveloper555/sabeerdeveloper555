@@ -1,243 +1,173 @@
-<!-- ======================= HEADER ======================= -->
+# Hi 👋, I'm Sabeer Alam
 
-<h1 align="center">Hi 👋, I'm Sabeer Alam</h1>
+### Full Stack Developer | AI Enthusiast | Software Developer
 
-<h3 align="center">
-Full Stack Developer • AI Enthusiast • Software Developer
-</h3>
+I'm a **Full Stack Developer** from Karachi, Pakistan, passionate about building modern web applications, mobile applications, and AI-powered solutions.
 
-<p align="center">
-  <a href="https://github.com/sabeerdeveloper555">
-    <img src="https://komarev.com/ghpvc/?username=sabeerdeveloper555&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/sabeerdeveloper555?tab=followers">
-    <img src="https://img.shields.io/github/followers/sabeerdeveloper555?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers"/>
-  </a>
-</p>
+I enjoy turning real-world problems into practical software using clean, efficient, and scalable code. My current interests include **Full Stack Development, AI, Agentic AI, Semantic Search, and intelligent application workflows**.
 
 ---
 
 ## 🚀 About Me
 
-I'm a **Full Stack Developer** passionate about building modern web and mobile applications and exploring the possibilities of **AI-powered software**.
+I'm a **Full Stack Developer** passionate about building modern web applications, mobile applications, and AI-powered solutions.
 
-I enjoy solving real-world problems through clean, efficient, and scalable solutions. My experience includes **React.js, Flutter, Flask, Python, JavaScript, REST APIs, semantic search, OCR, Firebase, FAISS, and agentic AI workflows**.
+I work with **React.js, Node.js, Express.js, Flask, Python, JavaScript, Flutter, and REST APIs**, with experience in database-driven applications and backend development.
 
-* 💻 Full Stack Developer
-* 🤖 Interested in AI & Agentic AI Systems
-* 🌐 Web & Mobile Application Development
-* 🔎 Semantic Search & AI-powered Solutions
-* 🧠 Building real-world software solutions
-* 📚 Continuously learning and improving
-* 📍 Karachi, Pakistan
+I'm particularly interested in **Artificial Intelligence, Agentic AI, Semantic Search, Vector Databases, and AI-powered application development**. I enjoy exploring new technologies and turning real-world problems into practical software solutions.
+
+Currently, I'm focused on strengthening my **Full Stack Development and AI engineering skills** while building projects that combine modern software development with intelligent technologies.
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+* JavaScript
+* Python
 
 ### 🎨 Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,flutter" />
-</p>
+* HTML5
+* CSS3
+* React.js
+* Tailwind CSS
+* Flutter
 
 ### ⚙️ Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,flask,nodejs,express" />
-</p>
+* Node.js
+* Express.js
+* Flask
+* REST APIs
 
 ### 🗄️ Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql,sqlite,firebase" />
-</p>
+* PostgreSQL
+* SQLite
 
-### 🤖 AI & Development Tools
+### 🤖 AI & Machine Learning Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github" />
-</p>
+* OpenAI APIs
+* CrewAI
+* FAISS
+* Semantic Search
+* OCR
+* Agentic AI
 
-**AI & Tools:**
-`CrewAI` • `OpenAI APIs` • `FAISS` • `OCR` • `Semantic Search` • `REST APIs`
+### 🔧 Tools & Services
+
+* Git
+* GitHub
+* Firebase
+
+### 🎯 Core Skills
+
+* Full Stack Development
+* Backend Development
+* Mobile App Development
+* REST API Development
+* AI-Powered Application Development
+* Semantic Search
+* Multi-Agent AI Workflows
 
 ---
 
-# 🚀 Featured Projects
+## 📌 Featured Projects
 
-## 📖 True Hadith
+### 🕌 True Hadith
 
-### AI-Powered Hadith Verification Application
+**AI-Powered Hadith Verification Application**
 
-A team-developed AI-powered application built with **Flutter, Flask, and FAISS**, designed to enable semantic search and faster Hadith verification.
+A Flutter and Flask-based application designed to provide semantic search and Hadith verification across **19,000+ Hadith** from Sahih Bukhari, Sahih Muslim, and Tirmizi.
 
-### ✨ Highlights
+**Key Features:**
 
-* 📚 **19,000+ Hadith** across 3 major collections
-* 🔎 Semantic search using **FAISS**
-* ⚡ Near-instant vector-based retrieval
-* 🖼️ OCR-based text extraction from images
-* 🎙️ Speech-to-text processing
+* 🔎 Semantic search using FAISS
+* 📚 19,000+ Hadith dataset
+* 📷 OCR-based text extraction
+* 🎙️ Speech-to-text input
 * 🌍 Multilingual support
-* 🔐 Firebase authentication
+* 🔐 Firebase Authentication
 
-**Tech:** `Flutter` `Flask` `FAISS` `Firebase` `OCR`
-
----
-
-## 🤖 Synapse
-
-### Agentic AI Market Research System
-
-A multi-agent AI system built to automate **market research, analysis, and report generation** using autonomous AI workflows.
-
-### ✨ Highlights
-
-* 🤖 Multi-agent architecture using **CrewAI**
-* 🧠 OpenAI-powered AI workflows
-* 🔍 Automated market research
-* 📊 Automated research analysis
-* 📝 AI-generated reports
-* ⚡ Real-time React dashboard
-* 🔄 Live agent task updates
-* 🧩 Autonomous multi-step workflows
-
-**Tech:** `CrewAI` `OpenAI APIs` `React.js`
+**Tech:** Flutter • Flask • FAISS • OCR • Firebase
 
 ---
 
-# 🧠 What I Work With
+### 🤖 Synapse
+
+**Agentic AI Market Research System**
+
+A multi-agent AI system designed to automate market research, analysis, and report generation using CrewAI and OpenAI APIs.
+
+**Key Features:**
+
+* 🤖 Multi-agent AI workflows
+* 🔬 Automated market research
+* 📊 Real-time React dashboard
+* 📝 Automated report generation
+* 🔄 Multi-step autonomous workflows
+
+**Tech:** CrewAI • OpenAI APIs • React.js
+
+---
+
+## 🧠 Currently Exploring
 
 ```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│  Frontend       → React.js • HTML • CSS • Tailwind │
-│                                                     │
-│  Mobile         → Flutter                           │
-│                                                     │
-│  Backend        → Flask • Node.js • Express.js     │
-│                                                     │
-│  Languages      → Python • JavaScript              │
-│                                                     │
-│  Databases      → PostgreSQL • SQLite              │
-│                                                     │
-│  AI             → CrewAI • OpenAI • FAISS • OCR    │
-│                                                     │
-│  Development    → Git • GitHub • REST APIs         │
-│                                                     │
-└─────────────────────────────────────────────────────┘
+Agentic AI
+    ↓
+Multi-Agent Systems
+    ↓
+RAG & Semantic Search
+    ↓
+Vector Databases
+    ↓
+AI-Powered Applications
 ```
 
+I'm continuously learning and experimenting with new approaches to combine **AI with modern full-stack development**.
+
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=sabeerdeveloper555&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-    height="170"
-    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=sabeerdeveloper555&show_icons=true&theme=github_dark&hide_border=true" 
+    height="180"
   />
-
-<img 
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabeerdeveloper555&layout=compact&theme=tokyonight&hide_border=true" 
- height="170"
- alt="Top Languages"
-/>
-
-</p>
-
-<p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sabeerdeveloper555&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabeerdeveloper555&layout=compact&theme=github_dark&hide_border=true" 
+    height="180"
   />
 </p>
 
 ---
 
-# 🐍 Contribution Activity
+## 🔥 GitHub Streak
 
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/sabeerdeveloper555/sabeerdeveloper555/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
+    src="https://streak-stats.demolab.com?user=sabeerdeveloper555&theme=github-dark-blue&hide_border=true"
   />
 </p>
 
 ---
 
-# 🎯 Current Focus
+## 🤝 Let's Connect
 
-```text
-                    ┌─────────────────────┐
-                    │  Full Stack         │
-                    │  Development        │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │  Modern Web &       │
-                    │  Mobile Apps        │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │  AI Integration     │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │  Agentic AI         │
-                    │  Systems            │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │  Real-World         │
-                    │  Solutions 🚀       │
-                    └─────────────────────┘
-```
+I'm always interested in connecting with developers, learning from new projects, and exploring opportunities in **Full Stack Development and AI**.
+
+📧 **Email:** [alamsabeer05@gmail.com](mailto:alamsabeer05@gmail.com)
+
+🔗 **LinkedIn:** [linkedin.com/in/sabeer-alam](https://www.linkedin.com/in/sabeer-alam)
+
+💻 **GitHub:** [github.com/sabeerdeveloper555](https://github.com/sabeerdeveloper555)
 
 ---
 
-# 🎓 Education
+### 💡 "Build. Learn. Experiment. Repeat."
 
-**Bachelor of Science in Computer Science**
-
-Karachi Institute of Economics & Technology
-`2022 – 2026`
-
-### Professional Training
-
-**Modern Full Stack Web Development**
-Saylani Mass IT Training — SMIT
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-  <a href="mailto:alamsabeer05@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://linkedin.com/in/sabeer-alam">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/sabeerdeveloper555">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <b>💻 Build • Learn • Solve • Repeat 🚀</b>
-</p>
-
-<p align="center">
-  <i>Thanks for visiting my profile!</i>
-</p>
+⭐ If you find my projects interesting, feel free to explore my repositories and connect with me!
