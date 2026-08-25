@@ -131,31 +131,6 @@ I'm continuously learning and experimenting with new approaches to combine **AI 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=sabeerdeveloper555&show_icons=true&theme=github_dark&hide_border=true" 
-    height="180"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabeerdeveloper555&layout=compact&theme=github_dark&hide_border=true" 
-    height="180"
-  />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=sabeerdeveloper555&theme=github-dark-blue&hide_border=true"
-  />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 I'm always interested in connecting with developers, learning from new projects, and exploring opportunities in **Full Stack Development and AI**.
