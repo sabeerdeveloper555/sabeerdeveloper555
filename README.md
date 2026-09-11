@@ -359,7 +359,7 @@ I'm continuously learning and experimenting with ways to combine **modern softwa
 # 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabeerdeveloper555&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sabeerdeveloper555&show_icons=true&theme=default&hide_border=true" alt="Sabeer Alam's GitHub Stats" />
 </p>
 
 <p align="center">
