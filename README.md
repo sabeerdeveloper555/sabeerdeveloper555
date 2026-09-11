@@ -358,9 +358,11 @@ I'm continuously learning and experimenting with ways to combine **modern softwa
 
 # 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabeerdeveloper555&show_icons=true&theme=default&hide_border=true" alt="Sabeer Alam's GitHub Stats" />
-</p>
+## 📈 GitHub Activity
+
+I actively use GitHub to build, experiment with new technologies, and maintain my development projects.
+
+🔗 [Explore my GitHub repositories](https://github.com/sabeerdeveloper555)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabeerdeveloper555&hide_border=true" />
